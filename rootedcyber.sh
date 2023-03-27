@@ -1,4 +1,4 @@
-git clone https://github.com/TeamUltroid/Ultroid/
+git clone https://github.com/davidheyman130/Ultroid/
 cd Ultroid
 pip install --upgrade pip
 pip3 install -r req*
